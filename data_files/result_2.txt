@@ -1,0 +1,9 @@
+RAPORT SYMULACJI DLA PONI¯SZYCH PROCESÓW W CHWILI 18,4
+U¿yta metoda: planowanie priorytetowe z wyw³aszczeniem procesów co 3,0 czekaj¹cych d³u¿ej ni¿ 2,0
+Proces; Czas przyjœcia; D³ugoœæ procesu; Priorytet; Czas oczekiwania; Postêp; Czas wykonywania od-do
+0; 1,0; 9,0; 4; 8,0; 100,0%;  1,0-2,0 3,0-3,0 6,0-6,0 10,0-18,0
+1; 1,0; 3,0; 4; 2,0; 100,0%;  3,0-6,0
+2; 7,0; 2,0; 1; 0,0; 100,0%;  7,0-9,0
+3; 2,0; 2,0; 4; 6,0; 100,0%;  6,0-7,0 9,0-10,0
+4; 2,0; 1,0; 2; 0,0; 100,0%;  2,0-3,0
+Œredni czas oczekiwania: 3,2
