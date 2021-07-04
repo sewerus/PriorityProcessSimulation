@@ -74,10 +74,10 @@ Simulation after some time:
 ## Structure of source code
 
 There are four classes to in this application:
-• Processor
-• PriorityProcessSimulation
-• Task
-• TextListener
+* Processor,
+* PriorityProcessSimulation,
+* Task,
+* TextListener.
 
 Their implementation is located at: `PriorityProcessSimulation/core/src/com/mygdx/game/`.
 
