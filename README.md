@@ -89,7 +89,7 @@ All processes are stored in the dynamic array processes, and the numbers of wait
 
 The numbers in this second table are stored in such a way that, if this array is not empty, the process contained therein at position zero is currently being executed and the rest will be executed in the order in which they appear in subsequent positions.
 
-### `ProcessSimulation` class
+### `PriorityProcessSimulation` class
 This is the main class of the design. At startup, it creates variables using constructors, and then in the `render()` function, which is responsible for generating subsequent frames of the application, it calls functions of the `Processor` class that are responsible for drawing the results on the screen and checking whether the user has selected any option by pressing button on keyboard or mouse on screen, time lapse and process handling.
 
 ### `Task` class
